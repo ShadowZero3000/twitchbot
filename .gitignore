@@ -1,0 +1,4 @@
+__pycache__/
+bot/cfg.py
+bot/current_song.txt
+bot/requested_songs.txt
